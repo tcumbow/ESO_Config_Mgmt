@@ -36,12 +36,12 @@ ReplaceInFile "..\live\AddOns\VotansMiniMap\Main.lua" 'showCombat = false' 'show
 ReplaceInFile "..\live\AddOns\VotansMiniMap\Main.lua" 'asyncUpdate = false' 'asyncUpdate = true'
 
 ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'autoSwitchBait = false' 'autoSwitchBait = true'
-ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'anim:SetAlphaValues(0.2, 1)' 'anim:SetAlphaValues(0.0, 1)'
-ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'data.reelInAnim:SetPlaybackType(ANIMATION_PLAYBACK_PING_PONG, 5)' 'data.reelInAnim:SetPlaybackType(ANIMATION_PLAYBACK_PING_PONG, 15)'
-ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'anim:SetDuration(600)' 'anim:SetDuration(250)'
-ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'reelInColor = "FFFFFF",' 'reelInColor = "FF0000",'
-ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'reelInSize = 1,' 'reelInSize = 4,'
-ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'notificationAnim = "Pulse1",' 'notificationAnim = "Fade1",'
+# ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'anim:SetAlphaValues(0.2, 1)' 'anim:SetAlphaValues(0.0, 1)'
+# ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'data.reelInAnim:SetPlaybackType(ANIMATION_PLAYBACK_PING_PONG, 5)' 'data.reelInAnim:SetPlaybackType(ANIMATION_PLAYBACK_PING_PONG, 15)'
+# ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'anim:SetDuration(600)' 'anim:SetDuration(250)'
+# ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'reelInColor = "FFFFFF",' 'reelInColor = "FF0000",'
+# ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'reelInSize = 1,' 'reelInSize = 4,'
+# ReplaceInFile "..\live\AddOns\VotansFisherman\VotansFisherman100015.lua" 'notificationAnim = "Pulse1",' 'notificationAnim = "Fade1",'
 
 ReplaceInFile "..\live\AddOns\ChatWindowManager\ChatWindowManager.lua" 'RememberState = true,' 'RememberState = false,'
 
